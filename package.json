@@ -1,0 +1,26 @@
+{
+  "name": "@techteia/oauth2-twitch",
+  "version": "0.1.0",
+  "description": "Twitch OAuth2 library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techteia/oauth2-twitch.git"
+  },
+  "author": "MrSwirlyEyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techteia/oauth2-twitch/issues"
+  },
+  "homepage": "https://github.com/techteia/oauth2-twitch#readme",
+  "publishConfig": {
+    "cache": "cache/.npm",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
