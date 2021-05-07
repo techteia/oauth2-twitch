@@ -1,6 +1,6 @@
 {
   "name": "@techteia/oauth2-twitch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Twitch OAuth2 library",
   "main": "index.js",
   "scripts": {
