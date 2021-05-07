@@ -1,6 +1,6 @@
 {
   "name": "@techteia/oauth2-twitch",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Twitch OAuth2 library",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "dotenv": "^9.0.0"
   }
 }
